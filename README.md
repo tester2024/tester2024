@@ -105,13 +105,3 @@
 ---
 
 
-### `tester2024@github:~$ cat /var/log/github_activity.log`
-
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=tester2024&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="tester2024's Trophies"/>
-    </a>
-    <img src="https://github-readme-stats.vercel.app/api?username=tester2024&show_icons=true&theme=tokyonight&border_color=00FF66&icon_color=00FF66&hide_border=true&bg_color=0d1117" alt="tester2024's GitHub stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tester2024&theme=tokyonight&border=00FF66&background=0d1117&hide_border=true" alt="GitHub Streak" />
-</div>
-
